@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dragon Ball Data</string>
+    <string name="label_descript">Description</string>
+    <string name="label_hp">HP</string>
+    <string name="label_speed">Speed</string>
+    <string name="label_attack">Attack</string>
+    <string name="label_defense">Defense</string>
+</resources>
